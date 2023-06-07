@@ -27,6 +27,8 @@
 
 **Hello rails backend app** with a greetings table to be connected with a react frontend.
 
+[React app link](https://github.com/jorgeabrahan/hello-react-front-end)
+
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
